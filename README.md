@@ -82,7 +82,7 @@ The tool does the following:
 
 ## Frontend Code
 
-The frontend interface (`index.html` and `success.html`) allows users to input crime-related information and view success messages along with geocoded coordinates.
+The frontend interface (`citien_app.html` and `success.html`) allows users to input crime-related information and view success messages along with geocoded coordinates.
 
 ## Code Explanation
 
