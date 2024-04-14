@@ -72,7 +72,7 @@ The tool does the following:
 
 1. **Download**: Get the tool from the provided link.
 2. **Install Python**: If Python is not installed, follow the instructions on the Python website to download and install it.
-3. **Run the Tool**: Open a command prompt or terminal on your computer. Navigate to the folder where you downloaded the tool and run it by typing `python crime_analysis.py`.
+3. **Run the Tool**: Open a command prompt or terminal on your computer. Navigate to the folder where you downloaded the tool and run it by using this link [NeuralShield Notebook](#https://mybinder.org/v2/gh/Garv-it2002/KSPdatathon.git/HEAD).
 
 ### Running the Script
 
@@ -93,7 +93,7 @@ The script performs the following tasks:
 - **Data Analysis**: Analyzes crime incidents by category and clusters hotspots using KMeans or DBSCAN algorithms.
 - **Trend Analysis**: Analyzes trends in crime incidents over time.
 - **Preventive Measures**: Provides suggestions for preventive measures based on the analysis, like improving lighting or having more police patrols.
-- The Python scripts `main.py` and `main1.py` handle data loading, geocoding, modification, and replacement. They work in conjunction with the frontend interface to provide a seamless user experience.
+- The Python scripts `main.py` handle data loading, geocoding, modification, and replacement. They work in conjunction with the frontend interface to provide a seamless user experience.
 
 ## Contributors
 
