@@ -2,6 +2,10 @@
 
 NeuralShield is a groundbreaking crime prevention platform that leverages cutting-edge technologies, including convolutional neural networks (CNNs), recurrent neural networks (RNNs), and machine learning algorithms, to enhance public safety and law enforcement efforts. This unified app revolutionizes crime prevention by empowering citizens to contribute to safety, utilizing advanced data processing techniques, and optimizing law enforcement response.
 
+## Architecture
+
+![Architecture](https://github.com/Garv-it2002/KSPdatathon/blob/main/architecture.png)
+
 ## Deployed Links
 
 - [Citizen App](https://garv-it2002.github.io/hosting/): This is the frontend of the application that we are going to provide to the public for immediate crime reporting.
