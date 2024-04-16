@@ -4,7 +4,7 @@ NeuralShield is a groundbreaking crime prevention platform that leverages cuttin
 
 ## Architecture
 
-![Architecture](https://github.com/Garv-it2002/KSPdatathon/blob/main/architecture.png)
+![Architecture](https://github.com/Garv-it2002/KSPdatathon/blob/main/NeuralShield_Architecture.png)
 
 ## Deployed Links
 
